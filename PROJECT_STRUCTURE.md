@@ -1,5 +1,3 @@
-# Project Structure
-
 Log-Based-Bug-Pattern-Mining/
 │
 ├── data/
@@ -7,12 +5,18 @@ Log-Based-Bug-Pattern-Mining/
 │
 ├── images/
 │   ├── workflow.png
+│   ├── dataset.png
 │   ├── confusion_matrix.png
-│   └── output.png
+│   └── classification_report.png
 │
 ├── SE_CIPAT.ipynb
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
 ├── .gitignore
-└── sample_predictions.csv   (optional)
+├── CONTRIBUTING.md
+├── CODE_OF_CONDUCT.md
+├── CHANGELOG.md
+├── PROJECT_STRUCTURE.md
+├── SECURITY.md
+└── CITATION.cff
